@@ -66,3 +66,14 @@ We have tested this model with two loss functions: Vanilla Gan Loss and Lsgan Lo
 <h2>Results</h2>
 
 ![image](https://user-images.githubusercontent.com/34622497/154837905-35a66a2d-8113-444f-97e6-2d7e278781fc.png)
+
+<h3>Loss Function vs Performance Metrics:</h3>
+
+![image](https://user-images.githubusercontent.com/34622497/154838185-30e12f2d-8c5a-413b-bd6c-48998c5a022b.png)
+
+<h3>Performance Metric Distribution:</h3>
+
+![image](https://user-images.githubusercontent.com/34622497/154838195-286acc52-fbc7-4f05-bbd1-05ff327411ee.png)
+
+
+
