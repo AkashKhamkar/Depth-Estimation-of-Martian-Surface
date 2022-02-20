@@ -53,3 +53,13 @@ The dataset we created consists of two type of images -
 5. These images were randomly partitioned into training  & testing  .
 6. Each Training Image is of size 256x256.
 
+<h2>Sample Pair Image</h2>
+
+![image](https://user-images.githubusercontent.com/34622497/154837542-54fbdea5-266a-468d-a4a2-245bc82ae23b.png)
+
+<h2> Model Used</h2>
+
+We have used [Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) model to solve this Task.
+![image](https://user-images.githubusercontent.com/34622497/154837614-6540ad91-e9c8-414a-bc59-b65827288cea.png)
+
+
