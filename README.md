@@ -60,6 +60,7 @@ The dataset we created consists of two type of images -
 <h2> Model Used</h2>
 
 We have used [Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) model to solve this Task.
-![image](https://user-images.githubusercontent.com/34622497/154837614-6540ad91-e9c8-414a-bc59-b65827288cea.png)
+![image](https://user-images.githubusercontent.com/34622497/154837655-345c6a4a-fed3-4b7f-85af-1b2db9693598.png)
+
 
 
