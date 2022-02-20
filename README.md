@@ -75,5 +75,14 @@ We have tested this model with two loss functions: Vanilla Gan Loss and Lsgan Lo
 
 ![image](https://user-images.githubusercontent.com/34622497/154838195-286acc52-fbc7-4f05-bbd1-05ff327411ee.png)
 
+<h2>References</h2>
 
+```
+@inproceedings{isola2017image,
+  title={Image-to-Image Translation with Conditional Adversarial Networks},
+  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on},
+  year={2017}
+}
+```
 
