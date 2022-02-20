@@ -60,8 +60,9 @@ The dataset we created consists of two type of images -
 <h2> Model Used</h2>
 
 We have used [Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) model to solve this Task.
-![image](https://user-images.githubusercontent.com/34622497/154837781-11eb10ed-b56a-4511-bd06-41938ce442ca.png)
+![image](https://user-images.githubusercontent.com/34622497/154837781-11eb10ed-b56a-4511-bd06-41938ce442ca.png)<br>
+We have tested this model with two loss functions: Vanilla Gan Loss and Lsgan Loss.
 
+<h2>Results</h2>
 
-
-
+![image](https://user-images.githubusercontent.com/34622497/154837905-35a66a2d-8113-444f-97e6-2d7e278781fc.png)
