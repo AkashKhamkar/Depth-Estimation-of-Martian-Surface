@@ -85,5 +85,5 @@ We have tested this model with two loss functions: Vanilla Gan Loss and Lsgan Lo
   year={2017}
 }
 ```
-maybe add the code file ?
+
 
